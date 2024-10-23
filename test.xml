@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<object>
+	<number name="cars">2</number>
+	<number name="trucks">3</number>
+	<string name="firstname">Adam</string>
+	<boolean name="isHuman">True</boolean>
+	<null name="computer_name"/>
+</object>
