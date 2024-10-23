@@ -1,0 +1,7 @@
+{
+    "cars": 2,
+    "trucks": 3,
+    "firstname": "Adam",
+    "isHuman": true,
+    "computer_name": null
+}
